@@ -1,0 +1,12 @@
+
+# Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
+
+
+## UML Solicitada (mermaid)
+
+ [![](https://mermaid.ink/img/pako:eNptksFuwjAMhl-lygk0eIEeJqHtwmEIjWmnXkxiUmtpXLkJ2kC8-0JbKkrJpYn_v_YXx2el2aDKVeGzTDtomncCK1Bdz30k-8Ra2MTA8hEb0uCycydf10tgDTKbZ8O602qIzUi80xp0qIk99FlnVfvJs10Q8nbeWS-Fv0dZ1SDoSv5KPx_Yk-YRiyObyvlYofBDolaHgN7giPaBilJOAnljEST-5lPyPiXZwBEtGJa1DygewwgEf2lPsgVLHmZR3AAzKQiGui5s-AirPTywjeAjODrBLe3zDq3rkj3eYAaxDy-Xr9PnnDimXZ5YJtdvC6mFSq2vgEwaqRahUKHECguVp60B-SnSqF2SDxLA7s9rlQeJuFDC0ZYqP4Br0inWJr1VP4tDFA1dqbuJ1ewPZNXlHyOP2H0?type=png)](https://mermaid.live/edit#pako:eNptksFuwjAMhl-lygk0eIEeJqHtwmEIjWmnXkxiUmtpXLkJ2kC8-0JbKkrJpYn_v_YXx2el2aDKVeGzTDtomncCK1Bdz30k-8Ra2MTA8hEb0uCycydf10tgDTKbZ8O602qIzUi80xp0qIk99FlnVfvJs10Q8nbeWS-Fv0dZ1SDoSv5KPx_Yk-YRiyObyvlYofBDolaHgN7giPaBilJOAnljEST-5lPyPiXZwBEtGJa1DygewwgEf2lPsgVLHmZR3AAzKQiGui5s-AirPTywjeAjODrBLe3zDq3rkj3eYAaxDy-Xr9PnnDimXZ5YJtdvC6mFSq2vgEwaqRahUKHECguVp60B-SnSqF2SDxLA7s9rlQeJuFDC0ZYqP4Br0inWJr1VP4tDFA1dqbuJ1ewPZNXlHyOP2H0)
+ 
+## Referência do Deafio
+
+ - [Proposta DIO](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
+ 
